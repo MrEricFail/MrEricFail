@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrEricFail
 - 👀 I’m interested in Gaming, and the design of Games
-- 🌱 I’m currently learning C# for Games Programming
+- 🌱 I’m currently learning C# for Games Programming at SAE Institute 
 - 💞️ I’m looking to collaborate on Games
 - 📫 How to reach me: mrericfail on Discord
 - 😄 Pronouns: He/Him
