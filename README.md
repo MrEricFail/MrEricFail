@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning C# for Games Programming at SAE Institute 
 - 💞️ I’m looking to collaborate on Games
 - 📫 How to reach me: mrericfail on Discord
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Apache Kampfhubschraubär
+- ⚡ Fun fact: nothing funny to see here
 
 <!---
 MrEricFail/MrEricFail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
